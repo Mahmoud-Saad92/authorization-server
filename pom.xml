@@ -3,11 +3,11 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.bazinga.sa</groupId>
-    <artifactId>spring-security-tutorial-9</artifactId>
+    <artifactId>authorization-server</artifactId>
     <version>0.0.1</version>
     <packaging>jar</packaging>
 
-    <name>spring-security-tutorial-9</name>
+    <name>authorization-server</name>
     <description>Authorization Server Implementation</description>
 
     <properties>
