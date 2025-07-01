@@ -1,2 +1,5 @@
-# authorization-server
-implementing an authorization server
+# Authorization Server
+
+---------------------------------------------------
+
+## implementing an authorization server
