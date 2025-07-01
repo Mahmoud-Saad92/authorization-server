@@ -1,0 +1,11 @@
+spring:
+  datasource:
+    username: 'root'
+    password: 'mysql123'
+    url: jdbc:mysql://localhost:3306/authorization_server
+
+logging:
+  level:
+    com.bazinga.sa.authorizationserv: debug
+    org.springframework.boot: info
+    org.springframework.web: info
